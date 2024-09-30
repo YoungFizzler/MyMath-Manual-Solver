@@ -1,6 +1,6 @@
 # MyMath Static Scode Gen #
 
-This repo is the sourcecode for my Static website hosted on https://Mymath.AutoAce.Su which provides a manual way to manipulate a MyMath homework score request.
+This repo is the sourcecode for my Static website which provides a manual way to manipulate a MyMath homework score request.
 
 So how do we generate the Scode?
 
