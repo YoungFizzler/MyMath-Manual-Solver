@@ -33,3 +33,7 @@ then simply run the file with
 ```
 index.html
 ```
+
+## Hosting with a Domain ##
+
+To host with a domain, Upload the Static Website folder to your hosting provider and configure this accordingly.
