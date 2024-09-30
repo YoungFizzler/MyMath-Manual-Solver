@@ -1,4 +1,4 @@
-## MyMath Static Scode Gen ##
+# MyMath Static Scode Gen #
 
 This repo is the sourcecode for my Static website hosted on https://Mymath.AutoAce.Su which provides a manual way to manipulate a MyMath homework score request.
 
@@ -38,7 +38,7 @@ index.html
 
 To host with a domain, Upload the Static Website folder to your hosting provider.
 
-# Cloudflare #
+### Cloudflare ###
 
 1. Fork this repo
 2. Navigate to Workers and Pages on cloudflare. (*** Optional ***)
