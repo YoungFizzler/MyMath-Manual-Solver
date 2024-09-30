@@ -36,4 +36,11 @@ index.html
 
 ## Hosting with a Domain ##
 
-To host with a domain, Upload the Static Website folder to your hosting provider and configure this accordingly.
+To host with a domain, Upload the Static Website folder to your hosting provider.
+
+# Cloudflare #
+
+1. Fork this repo
+2. Navigate to Workers and Pages on cloudflare. (*** Optional ***)
+3. Click on Pages then Create.
+4. Create a new page and upload the Static Website folder or login to github and use your repo.
